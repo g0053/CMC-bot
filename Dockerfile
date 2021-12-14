@@ -1,4 +1,4 @@
-LABEL maintainer="s.ploner@gmx.net"
+LABEL maintainer="1@belomor.nl"
 
 FROM openjdk:8-jre
 
